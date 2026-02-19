@@ -1,0 +1,16 @@
+pandas
+numpy
+geopandas
+h3
+shapely
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+matplotlib
+seaborn
+streamlit
+folium
+tqdm
+pytest
+meteostat
